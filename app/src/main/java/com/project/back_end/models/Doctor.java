@@ -1,4 +1,4 @@
-package com.project.backend.models.app.src.main.java.com.project.backend.models;
+package com.project.backend.models.app.src.main.java.com.project.back_end.models;
 
 // Импорт необходимых библиотек (например, для JPA или Lombok)
 
